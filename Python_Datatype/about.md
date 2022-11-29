@@ -1,6 +1,7 @@
 About Python Data type : 
 You will learn how to create and manipulate  :
-Python Numbers
+
+  Python Numbers
 
   Python List
 
